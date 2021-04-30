@@ -6,7 +6,10 @@ body{
 	padding:0;
 	border-radius:none;
 	height:100%;
-	background-color:white ;
+	}
+	.container{
+background-color: bro;
+max-width: 100%;
 	}
 #myhomepageheader{
 	padding-bottom:2px;
@@ -41,9 +44,6 @@ text-align:center;
 	background-color:gold;
 	display:inline-block;
 }
-h4{
-	color:0fffff;
-}
 #objective{
 	background-color:silver;
 	font-size:16px;
@@ -60,15 +60,16 @@ h4{
 	font-size:bold;
 }
 h1,h2,h3{color:rgb(0, 100, 255);
+	align-items: center;
 text-align:center;
 }
 
 #login{
 width:100%;
-border:2px solid green;
+border:2px solid gold;
 margin:auto;
 text-align:center;
-background:#A9D0F5; 
+background-color: antiquewhite; 
 padding:9 9px;
  width:300px; 
  border-radius:5px; 
@@ -79,9 +80,15 @@ height:60%;
 border:2px solid green;
 margin:auto;
 text-align:center;
-background:#A9D0F5; 
+background-color: antiquewhite; 
 padding:9px 9px;
  width:300px; 
  border-radius:5px; 
 }
-
+a{
+	align-items: center;
+	text-align: center;
+}
+h4{
+	color: fff;
+}
