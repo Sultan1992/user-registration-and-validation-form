@@ -6,7 +6,7 @@ body{
 	padding:0;
 	border-radius:none;
 	height:100%;
-	background-color:#40ff00 !important ;
+	background-color:white ;
 	}
 #myhomepageheader{
 	padding-bottom:2px;
@@ -69,8 +69,7 @@ border:2px solid green;
 margin:auto;
 text-align:center;
 background:#A9D0F5; 
-border: 3 px solid #eeeee; 
-padding:9px 9px;
+padding:9 9px;
  width:300px; 
  border-radius:5px; 
 }
@@ -81,7 +80,6 @@ border:2px solid green;
 margin:auto;
 text-align:center;
 background:#A9D0F5; 
-border: 10 px solid #eeeee; 
 padding:9px 9px;
  width:300px; 
  border-radius:5px; 
